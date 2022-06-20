@@ -1,4 +1,4 @@
-# Desafio DIO. Santander:
+# Desafio DIO. Santander
 
 ### 1. Desafio de Projeto: Git/GitHub
 
