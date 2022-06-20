@@ -1,0 +1,27 @@
+{\rtf1}
+GIT: o coração do Git é um simples armazenamento chave-valor. Você pode inserir qualquer tipo de conteúdo nele, e ele lhe dará de volta uma chave que você pode usar para recuperar o conteúdo de volta em qualquer momento.
+...
+O Git é um repositório de controle de versão de arquivos, utilizado para controlar versões de códigos-fonte e desenvolvimento colaborativo.
+
+
+Objetos Tree
+O próximo tipo que iremos ver é a tree (árvore), que resolve o problema de armazenar o nome de arquivo e também permite armazenar de forma conjunta um grupo de arquivos. O Git armazena o conteúdo em uma maneira similar a um sistema de arquivos UNIX, porém um pouco simplificado. Todo o conteúdo é armazenado como objetos tree e blob, com as trees correspondendo a entradas de um diretório UNIX e blobs correspondendo mais ou menos a inodes ou conteúdos de arquivos.
+
+sha1. "SHA'' significa secure hash algorithm (algoritmo de hash seguro),
+
+GIT é um sistema distribuído seguro.
+
+
+Chaves SSH - configurar a maquina com segurança
+
+- A chave pública pode ser usada para criptografar mensagens que apenas a chave privada pode descriptografar. Essa propriedade é usada como uma maneira de autenticar usando o par de chaves. A chave pública é enviada a um servidor remoto de sua preferência para que você possa fazer login via SSH.
+
+
+
+TOKENS de acesso
+
+COMANDOS INICIAIS DE GIT
+
+- git init
+- git add
+- git commit
